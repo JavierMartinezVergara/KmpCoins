@@ -30,8 +30,7 @@ object HttpClientFactory {
             defaultRequest {
                 headers {
                     append(
-                        "x-access-token",
-                        "coinranking5b9aefbede7540e334bd516592cecfe078ea4c9a48f27f80"
+                        "",""
                     )
                 }
                 contentType(ContentType.Application.Json)
